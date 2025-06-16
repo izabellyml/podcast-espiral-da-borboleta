@@ -1,5 +1,5 @@
-# 🎧 Espiral da Borboleta — Episódio 01  
-## A Batida da Transformação
+# 🎧 Espiral da Borboleta — Episódio 01 ✨
+## A Batida da Transformação 🦋
 
 ---
 
@@ -13,7 +13,7 @@
 
 ## [INTRODUÇÃO]
 
-Fala, viajante do som!  
+E aí viajante do som!  
 Você sabia que existe uma batida que não só mexe com seu corpo, mas também com sua alma?  
 Uma cultura que vai além da música e leva a gente pra um estado de conexão, com a natureza, com os outros e com a gente mesmo?  
 
@@ -23,7 +23,7 @@ Eu sou a Izabelly e esse é o **Espiral da Borboleta**, o podcast que pulsa na m
 
 ---
 
-## [CURIOSIDADE 1 — música psytrance]
+## [CURIOSIDADE 1 — Música Psytrance]
 
 Você já percebeu como a música psytrance tem um efeito quase hipnótico?  
 Isso não é por acaso. O bpm (batida por minuto) do psytrance gira em torno de 140 a 150 bpm, uma frequência que estimula o cérebro a entrar em estado de transe leve, quase como uma meditação ativa.  
@@ -33,7 +33,7 @@ Isso não é por acaso. O bpm (batida por minuto) do psytrance gira em torno de 
 
 ---
 
-## [CURIOSIDADE 2 — autoconhecimento]
+## [CURIOSIDADE 2 — Autoconhecimento]
 
 Agora segura essa: muita gente entra na cena trance só pela festa, mas acaba descobrindo uma jornada interna.  
 Isso acontece porque a cultura trance valoriza o “aqui e agora”, o contato com a natureza e a desconstrução do ego.  
@@ -52,6 +52,6 @@ No trance, cada batida pode ser um passo na sua transformação.
 Fica comigo nos próximos episódios que a gente vai se aprofundar ainda mais nesse universo psicodélico, ecológico e consciente.  
 
 Se essa espiral te tocou, compartilha com quem vibra nessa mesma frequência.  
-Eu sou Izabelly e esse foi o **Espiral da Borboleta** dessa semana 🦋✨
+Eu sou Izabelly e esse foi o **Espiral da Borboleta** dessa semana! 🦋✨
 
 ---
