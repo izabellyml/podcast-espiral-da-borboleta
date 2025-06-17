@@ -9,7 +9,9 @@ Ecologia, espiritualidade, música e consciência se encontram aqui.
 
 Neste episódio, Izabelly apresenta curiosidades sobre o impacto do psytrance na mente e no autoconhecimento, com um olhar profundo sobre como a cultura trance muda vidas.
 
-🎧 Ouça: [`espiral-da-borboleta-ep01.mp3`](.episode-01/audio/espiral-da-borboleta-ep01.MP3)  
+[![Ouvir Episódio](https://img.shields.io/badge/🎧_Ouvir_Episódio_01-GitHub_Page-blue)](https://seu-usuario.github.io/seu-repositorio/episode-01/player.html)
+
+🎧 Áudio: [`espiral-da-borboleta-ep01.mp3`](.episode-01/audio/espiral-da-borboleta-ep01.MP3)  
 📸 Capa do episódio: [`capa-ep01.png`](./episode-01/imagem/capa-ep01.png)  
 📜 Roteiro: [`roteiro.md`](./episode-01/roteiro.md)
 
